@@ -1,4 +1,4 @@
-HAND-RECOGNITION-USING-COMPUTER-VISION
+# HAND RECOGNITION USING COMPUTER VISION
 
 This project focuses on developing a system capable of recognizing and interpreting hand gestures using computer vision techniques for 
 hands-free control that enhances human-computer interaction for various applications.
